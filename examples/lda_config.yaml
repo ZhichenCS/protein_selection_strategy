@@ -1,0 +1,28 @@
+
+PTS1:
+ dataset_path : "../data/pts1/dataset/all_data_new.csv"
+ testset_path : '../data/pts1/dataset/rest_of_8k.csv'
+
+ result_save_path : '../data/pts1/result/'
+ fig_save_path : '../data/pts1/fig_process/'
+
+GB1:
+  processed_data_path : '../data/GB1/dataset/processed/'
+  result_save_path: '../data/GB1/result/'
+  fig_save_path : '../data/GB1/fig_process/'
+ 
+PhoQ:
+  processed_data_path : '../data/PhoQ/dataset/processed/'
+  result_save_path: '../data/PhoQ/result/'
+  fig_save_path : '../data/PhoQ/fig_process/'
+
+
+GB1_score3_consider1ps:
+  processed_data_path : '../data/GB1_score3_consider1ps/dataset/processed/'
+  result_save_path: '../data/GB1_score3_consider1ps/result/'
+  fig_save_path : '../data/GB1_score3_consider1ps/fig_process/'
+
+GB1_set1ps_change2ps_consider1ps:
+  processed_data_path : '../data/GB1_set1ps_change2ps_consider1ps/dataset/processed/'
+  result_save_path: '../data/GB1_set1ps_change2ps_consider1ps/result/'
+  fig_save_path : '../data/GB1_set1ps_change2ps_consider1ps/fig_process/'
